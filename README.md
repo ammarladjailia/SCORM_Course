@@ -102,7 +102,9 @@ Issues and pull requests are welcome. Please describe the LMS and browser you te
 ## License
 
 Dr. Ammar Ladjailia
+
 Souk Ahras university -Algeria- 41000
+
 a.ladjailia@univ-soukahras.dz
 
 The project is licensed under the MIT License.
